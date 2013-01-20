@@ -26,7 +26,14 @@ OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISE
 OF THE POSSIBILITY OF SUCH DAMAGE.
 ////////////////////////////////////////////////////////////////////////////////
 
-A Cyclades Service Engine Nyxlet/service for XSL processing
+////////////////////////////////////////////////////////////////////////////////
+IF THIS MESSAGE IS VISIBLE...PLEASE CLICK ON THIS LINK TO VIEW HTML...THE 
+ASCIIDOC FAILED TO RENDER PROPERLY!
+
+http://htmlpreview.github.com/?https://github.com/cycladessoa/nyxlet-xsl/README.html
+///////////////////////////////////////////////////////////////////////////////
+
+= A Cyclades Service Engine Nyxlet/service for XSL processing
 
 == Basic Features
 
