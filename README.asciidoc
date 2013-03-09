@@ -57,7 +57,7 @@ This document describes the steps involved for Service (Nyxlet) developers and e
 . Install Tomcat (if you do not already have it): http://tomcat.apache.org (We're running on Tomcat 7) This could be a standard installation on any host, local or remote
 
 . Download and install (extract) a stable version of this repository (the Nyxlet Source Distribution) within a directory of choice (example: "/cycladessoa/nyxlets")
-	.. https://github.com/cycladessoa/nyxlet-xsl/archive/v1.0.0.19.zip (We'll assume the extracted directory is "/cycladessoa/nyxlets/xsl" for our purposes)
+	.. https://github.com/cycladessoa/nyxlet-xsl/archive/v1.0.0.20.zip (We'll assume the extracted directory is "/cycladessoa/nyxlets/xsl" for our purposes)
 
 . From within the directory "/cycladessoa/nyxlets/xsl" run the command _gradle clean build_
 
@@ -88,7 +88,7 @@ base_engine_url_list={"url":"http://server1.mycompany.org:8080/cyclades","passwo
 
 . From within the base directory of your Nyxlet Source Distribution, run the command _./doc_gen.sh . generated_docs_ If you have not previously downloaded and installed the Nyxlet Source Distribution, please do the following before generating the documentation:
 	.. Download and install (extract) a stable version of this repository (the Nyxlet Source Distribution) within a directory of choice (example: "/cycladessoa/nyxlets")
-        	... https://github.com/cycladessoa/nyxlet-xsl/archive/v1.0.0.19.zip (We'll assume the extracted directory is "/cycladessoa/nyxlets/xsl" for our purposes)
+        	... https://github.com/cycladessoa/nyxlet-xsl/archive/v1.0.0.20.zip (We'll assume the extracted directory is "/cycladessoa/nyxlets/xsl" for our purposes)
 
 . Open the file "/cycladessoa/nyxlets/xsl/generated_docs/index.html" in a browser window
 
