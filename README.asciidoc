@@ -78,7 +78,7 @@ base_engine_url_list={"url":"http://server1.mycompany.org:8080/cyclades","passwo
 ----
 
 * You should be able to verify your Nyxlet is loaded by going to the following URL in your browser: http://localhost:8080/cyclades?action=loaded
-* You should be able to view all available actions on your Nyxlet by going to the following URL in your browser: http://localhost:8080/cyclades/my_first_nyxlet?data-type=xml&action=listactions
+* You should be able to view all available actions on your Nyxlet by going to the following URL in your browser: http://localhost:8080/cyclades/xsl?data-type=xml&action=listactions
 
 == Generate Current Documentation
 
